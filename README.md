@@ -1,0 +1,2 @@
+# BitcoinProject
+Bitcoin Mining Project
